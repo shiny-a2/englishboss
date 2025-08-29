@@ -1,0 +1,19 @@
+# secrets & env
+.env
+*.env
+
+# local db / cache
+english_boss.db
+*.sqlite
+__pycache__/
+*.pyc
+
+# venv & IDE
+.venv/
+venv/
+.DS_Store
+.vscode/
+.idea/
+
+# logs
+*.log
