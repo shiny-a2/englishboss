@@ -1,0 +1,9 @@
+python-telegram-bot==21.4
+openai>=1.30.0
+python-dotenv>=1.0.1
+rapidfuzz>=3.9.6
+pydantic>=2.8.2
+aiosqlite>=0.20.0
+APScheduler>=3.10.4
+Flask>=3.0.0
+requests>=2.32.3
